@@ -78,8 +78,8 @@ const ContactUs = () => {
               </div>
             </form>
           </CardContent>
-          <CardFooter className="flex justify-between">
-            <Button>Submit</Button>
+          <CardFooter className="flex justify-between w-full">
+            <Button className="w-full">Submit</Button>
           </CardFooter>
         </Card>
       </div>
