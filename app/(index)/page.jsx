@@ -58,7 +58,11 @@ const page = () => {
           </div>
         </DialogTrigger>
         <DialogContent>
-          <DialogTitle></DialogTitle>
+          <DialogTitle>
+            <p className="text-gradient-outline text-4xl font-black">
+              Contact Us
+            </p>
+          </DialogTitle>
           <DialogDescription></DialogDescription>
           <DialogHeader>
             <Card className="w-full shadow-none border-none">
